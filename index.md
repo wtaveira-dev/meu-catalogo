@@ -9,7 +9,6 @@ Esta é a página principal do meu portfólio. Aqui você encontrará uma lista 
 ### Projeto 1: Meu Primeiro Site
 *   **Descrição:** Um site simples criado com GitHub Pages e Jekyll.
 *   **Tecnologias:** HTML, CSS, Jekyll.
-*   **Link:** [Veja o código no GitHub](https://github.com/wtaveira-dev/meu-catalogo )
 
 ### Projeto 2: (Em breve)
 *   **Descrição:** ...

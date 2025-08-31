@@ -1,0 +1,12 @@
+# Título e descrição do seu site
+title: Catálogo de Projetos de Wtaveira
+description: Uma coleção dos meus melhores trabalhos e estudos.
+
+# Informa ao GitHub Pages para usar o tema "minimal"
+theme: jekyll-theme-minimal
+
+# (Opcional) Adiciona um link para o seu perfil do GitHub no rodapé
+show_downloads: false
+github:
+  is_project_page: true
+  repository_url: https://github.com/wtaveira-dev/meu-catalogo
